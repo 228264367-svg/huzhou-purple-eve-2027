@@ -1,0 +1,1 @@
+Sample photographs adapted from examples/data/model.webp and examples/data/garment.webp in fashn-AI/fashn-vton-1.5. The garment image has been recoloured and the person image resized. fit-demo.webp was generated from these two inputs with the FASHN VTON 1.5 public demo. Source: https://github.com/fashn-AI/fashn-vton-1.5

@@ -3,6 +3,7 @@ import { createRoot } from "react-dom/client";
 import { Sculpture } from "./Sculpture.jsx";
 import { Awards } from "./Awards.jsx";
 import { Route, TravelNotes } from "./Guide.jsx";
+import { FittingRoom } from "./FittingRoom.jsx";
 const outfits = [
   ["香芋紫", "#ceb4df", "米白大衣搭香芋紫围巾。拍合照时，把围巾放在外面。"],
   ["藤萝紫", "#a689bd", "浅灰外套配藤萝紫毛衣，怕冷就戴一双同色手套。"],
@@ -103,6 +104,7 @@ function Dress() {
           </div>
         </div>
       </div>
+      <FittingRoom />
     </section>
   );
 }
